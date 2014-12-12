@@ -8,7 +8,7 @@
     "type": "git",
     "url": "git://github.com/fabiobiondi/angular-fullscreen"
   },
-  "main": "./src/angular-fullscreen.js",
+  "main": "./dist/angular-fullscreen.js",
   "keywords": [
     "fullscreen api",
     "html5",
